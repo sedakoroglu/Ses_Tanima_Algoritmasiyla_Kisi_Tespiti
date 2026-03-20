@@ -49,8 +49,8 @@ Sistem aşağıdaki adımlar üzerinden çalışmaktadır:
 
 ## Dokümanlar
 
-- 📄 Araştırma Önerisi Formu: [Görüntüle](docs/arastirma_onerisi_rapor.docx)
-- 📄 Proje Raporu: [Görüntüle](docs/ses_ile_kisi_tespiti_rapor.pdf)
+- 📄 Araştırma Önerisi Formu:[Görüntüle](https://raw.githubusercontent.com/sedakoroglu/Ses_Tanima_Algoritmasiyla_Kisi_Tespiti/main/arastirma_onerisi_rapor.docx)
+- 📄 Proje Raporu:[Görüntüle](https://raw.githubusercontent.com/sedakoroglu/Ses_Tanima_Algoritmasiyla_Kisi_Tespiti/main/ses_ile_kisi_tespiti_rapor.pdf)
 
 ---
 
