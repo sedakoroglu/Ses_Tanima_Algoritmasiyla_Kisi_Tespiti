@@ -23,14 +23,16 @@ Bu çalışma, TÜBİTAK 2209-A Araştırma Projesi kapsamında gerçekleştiril
 
 ## Kaynak Kodlar
 
-- Kaynak kodlara buradan erişebilirsiniz: [src](src/)
+Bu projeye ait kaynak kodlar ekip arkadaşımın GitHub repository’sinde bulunmaktadır:
 
-### Kullanılan Kütüphaneler
-- pyannote.audio
-- Hugging Face
-- noisereduce
-- webrtcvad
-- matplotlib
+🔗 https://github.com/furkanksmn/ses-ile-kisi-tespiti
+
+Projede kullanılan Python dosyaları:
+- main.py  
+- analiz.py  
+- capture.py  
+- onisleme.py  
+- output.py  
 
 ---
 
