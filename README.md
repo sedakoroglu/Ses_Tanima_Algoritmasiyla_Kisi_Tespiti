@@ -49,7 +49,7 @@ Sistem aşağıdaki adımlar üzerinden çalışmaktadır:
 
 ## Dokümanlar
 
-- 📄 Araştırma Önerisi Formu: [Raporu görüntüle](arastirma_onerisi_rapor.docx)
+- 📄 Araştırma Önerisi Formu: [Raporu görüntüle](arastirma_onerisi_rapor.pdf)
 - 📄 Proje Raporu: [Raporu görüntüle](ses_ile_kisi_tespiti_rapor.pdf)
 
 ---
