@@ -56,7 +56,7 @@ Sistem aşağıdaki adımlar üzerinden çalışmaktadır:
 
 ## Bağlantı Şeması
 
-![Bağlantı Şeması](resimler/baglanti_semasi.jpeg)
+[Bağlantı Şeması](sem.jpeg)
 
 ---
 
